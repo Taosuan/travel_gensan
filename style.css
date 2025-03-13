@@ -77,4 +77,21 @@ footer{
     width: 100%;
     height: auto;
   }
+  section{  
+    margin: 12px;
+    padding: 6px;
+    border: solid 2px silver;
+    border-radius: 1%;
+  }
+
+  li{
+    background: skyblue;
+    width:240px;
+    text-align:center;
+    padding: 8px;
+    border-radius: 8px;
+    margin-bottom: 8px;
+    margin:9px auto;
+  
+  }
 }
